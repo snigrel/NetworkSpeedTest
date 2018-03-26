@@ -40,6 +40,10 @@ public class MainActivity extends AppCompatActivity {
         download_tv = (TextView) findViewById(R.id.download_speed);
         upload_tv = (TextView) findViewById(R.id.upload_speed);
 
+        //region GitHub changes Test
+        //Hello GitHub Changes
+        //endregion
+
         downloadIcon = (TextView) findViewById(R.id.downloadIcon);
         downloadIcon.setTypeface(fontawesome);
 
