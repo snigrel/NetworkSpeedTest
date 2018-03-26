@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NetworkSpeedTest</string>
+    <string name="download">&#xf063;</string>
+    <string name="upload">&#xf062;</string>
+</resources>
